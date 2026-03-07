@@ -18,7 +18,7 @@ from rag import store_embeddings
 
 app = Flask(__name__)
 
-CORS(app, origins=["http://localhost:5173"])
+CORS(app, origins=["https://study-assistant-livid.vercel.app/"])
 
 
 UPLOAD_FOLDER = "uploads"
