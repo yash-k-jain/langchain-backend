@@ -7,3 +7,5 @@ langchain_text_splitters==1.1.1
 pydantic==2.12.5
 python-dotenv==1.2.2
 upstash_redis==1.6.0
+pypdf==6.7.5
+chromadb==1.5.2
